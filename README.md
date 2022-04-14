@@ -1,1 +1,1 @@
-### Não copiar na íntegra, usar apenas os ficheiros de configuração
+## Não copiar na íntegra, apenas usar os ficheiros de configuração
